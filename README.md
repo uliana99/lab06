@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/uliana99/lab06.svg?branch=master)](https://travis-ci.org/uliana99/lab06)
 ## Laboratory work VI
 
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере **Catch**
@@ -16,7 +17,7 @@ $ open https://github.com/philsquared/Catch
 ## Tutorial
 
 ```ShellSession
-$ export GITHUB_USERNAME=<имя_пользователя> #имя пользователя
+$ export GITHUB_USERNAME=<имя_пользователя>
 ```
 
 ```ShellSession
