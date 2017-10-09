@@ -25,8 +25,6 @@ $ cd lab06
 $ git remote remove origin 
 $ git remote add origin https://github.com/${GITHUB_USERNAME}/lab06 
 ```
-#Работа с директорией tests
-
 ```ShellSession
 $ mkdir tests 
 $ wget https://github.com/philsquared/Catch/releases/download/v1.9.3/catch.hpp -O tests/catch.hpp
@@ -88,7 +86,7 @@ $ sed -i '' '/cmake --build _build --target install/a\
 ```
 
 ```ShellSession
-$ travis lint #проверка файла .travis.yml
+$ travis lint 
 ```
 
 ```ShellSession
